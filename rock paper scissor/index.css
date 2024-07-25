@@ -1,0 +1,39 @@
+body{
+    background-image: url(./Untitled.png);
+}
+#gamediv{
+    font-family: 'Brush Script MT', arial, helvetica, sans-serif;
+    border-radius: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: #455054;
+    text-align: center;
+
+}
+.choicebtn{
+    line-height: 30px;
+    width: 150px;
+    border-radius: 50px;
+    background-color: coral;
+    color: #455054;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#playerText{
+    color: blue;
+}
+#computertext{
+    color:red
+}
+#resulttext{
+    color: white;
+}
+.restartbtn{
+    line-height: 30px;
+    width: 150px;
+    border-radius: 50px;
+    background-color: coral;
+    color: #455054;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
