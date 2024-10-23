@@ -20,10 +20,10 @@ body{
 
 }
 #playerText{
-    color: blue;
+    color: green;
 }
 #computertext{
-    color:red
+    color:yellow 
 }
 #resulttext{
     color: white;
