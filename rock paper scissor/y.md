@@ -41,3 +41,15 @@ Food Scarcity and Famine: The capacity to produce enough food to feed an exponen
  * Overcrowding and Social Instability: Urban areas would become extremely overcrowded, leading to the breakdown of infrastructure, increased crime rates, and the spread of diseases. Social unrest and inequality could intensify as competition for limited resources grows.
  * Increased Disease and Reduced Lifespan: Overcrowding, poor sanitation, and resource scarcity would create ideal conditions for the spread of infectious diseases. Access to healthcare could become limited, potentially leading to a decrease in average human lifespan.
  * Ecological Collapse and Mass Extinction: The immense pressure on natural ecosystems could lead to the collapse of vital ecological processes and a mass extinction event, further threatening human survival.
+   ---
+   Pete’s day started out the same as it always does. He woke up at 6am to get ready for work in the brand new house he just bought with his wife that cost them $500,000. They had to borrow $400,000 in order to buy it. Anyways, Pete went out to start his car to get it warmed up before he left for work. As the car warmed up, Pete sat down for his usual bagel and cream cheese breakfast with a cup of coffee. Pete began to cruise through snapchat and twitter when he realized he might be late for work. He quickly got dressed, kissed his wife goodbye and rushed out the door. Speeding down the highways to work in the new car he just bought on credit, Pete weaved through traffic and yelled apologies out the window as he almost drove people off the road and ‘bumped’ into others. Those impacted by Pete’s aggressive driving often had responses for Pete’s apologies such as, “Get off the road you ******* ********!!!” (Road rage isn’t cool)
+
+Just making it on time to work at the Davis & Brown Plastic Factory, Pete punches in for work as he places his wallet and other valuables in his usual work locker. He heads down to the production line where he works as the maintenance supervisor. His job is to maintain and repair all equipment in the factory. This is a huge job with great pay but also many hazards. Repairing all this equipment can be dangerous and the last maintenance supervisor can’t work anymore because he lost his arm repairing a giant drill press. It suddenly turned back on while his arm was underneath the press.
+
+With the work day over, Pete goes to punch out of work and grab his valuables from his locker. As he punches out, he notices the locker door partially open. “I must have not shut it all the way because I was in such a rush!” Pete peeks inside to notice his wallet, watch and wedding band missing. “My wife is gonna kill me. What am I gonna do?!?” The watch cost $3,000 and was a gift from his wife and the wedding band only cost $500 but the wife might have something not so nice to say about that.
+
+1.  What are 3 specific risks that Pete took?  List them. (3 points)
+
+2.  For the 3 risks that you listed in question 1, state which type of insurance Pete should purchase (3 points)
+
+3.  Explain why each form of insurance you listed in question 2 is important for Pete to purchase (4 points)
