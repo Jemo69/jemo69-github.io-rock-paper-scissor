@@ -53,3 +53,28 @@ With the work day over, Pete goes to punch out of work and grab his valuables fr
 2.  For the 3 risks that you listed in question 1, state which type of insurance Pete should purchase (3 points)
 
 3.  Explain why each form of insurance you listed in question 2 is important for Pete to purchase (4 points)
+
+___
+1. When an author directly states "Susan is mean," this is an example of:
+A) Indirect characterization
+B) First-person perspective
+C) Direct characterization
+D) Character motivation
+
+2. According to the video, a character's motivation represents:
+A) The physical description of a character
+B) The reason a character commits a specific action
+C) The narrator's perspective
+D) The character's external appearance
+
+3. In literary analysis, the difference between protagonist and antagonist is BEST understood as:
+A) Good guy versus bad guy
+B) The main character and whoever opposes that character's goals
+C) Characters with similar personality traits
+D) Characters who share the same physical characteristics
+
+4. When a story is told using "I" and "we" pronouns, this indicates:
+A) Third-person point of view
+B) Direct characterization
+C) First-person point of view
+D) Character motivation
